@@ -60,3 +60,4 @@ for letter in input:
         else:
             time.sleep(0.5)
     time.sleep(0.5)
+
